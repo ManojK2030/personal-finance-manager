@@ -32,7 +32,7 @@ A command-line personal finance management app built with Python and Rich
 python main.py
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python 3.10+
 
 SQLite
