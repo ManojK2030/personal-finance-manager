@@ -26,13 +26,18 @@ A command-line personal finance management app built with Python and Rich
 ---
 ## install dependencies
   pip install rich bcrypt
+
+  
 ## Run the file:
 python main.py
 
 
 ##🛠️ Technologies Used
 Python 3.10+
+
 SQLite
+
 Rich (for CLI styling)
+
 Bcrypt (for password hashing)
   
